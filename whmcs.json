@@ -1,0 +1,18 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-registrars",
+  "name": "whmcs-irnic-registrar",
+  "license": "GPL-3.0-or-later",
+  "category": "registrar",
+  "description": {
+    "name": "WHMCS IRNIC Registrar",
+    "tagline": "IRNIC registrar integration for WHMCS",
+    "long": "Registrar module for .ir registration, renewal, nameserver management, incoming transfer and transfer PIN requests.",
+    "features": [
+      "Register .ir domains",
+      "Renew domains for 1 to 5 years",
+      "Manage nameservers",
+      "Transfer domains and request transfer PINs"
+    ]
+  }
+}

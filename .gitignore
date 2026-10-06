@@ -1,0 +1,12 @@
+.env
+.env.*
+*.log
+*.bak
+*.tmp
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+vendor/
+tests/credentials.php
+config.local.php
