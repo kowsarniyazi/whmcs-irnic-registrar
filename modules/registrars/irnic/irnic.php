@@ -3,10 +3,9 @@
 /*
  * WHMCS IRNIC Registrar Module
  *
- * Public release:
- * - No API token or Deposit Code is hard-coded.
- * - Credentials are read only from WHMCS registrar settings.
- * - Successful routine operations are intentionally not written to Module Log.
+ * Developed by: Kowsar Niyazi
+ * Company: NovinHost
+ * Repository: https://github.com/kowsarniyazi/whmcs-irnic-registrar
  *
  * License: GPL-3.0-or-later
  */
