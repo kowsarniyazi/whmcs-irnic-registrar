@@ -4,6 +4,8 @@
   "name": "whmcs-irnic-registrar",
   "license": "GPL-3.0-or-later",
   "category": "registrar",
+  "author": "Kowsar Niyazi",
+  "company": "NovinHost",
   "description": {
     "name": "WHMCS IRNIC Registrar",
     "tagline": "IRNIC registrar integration for WHMCS",
