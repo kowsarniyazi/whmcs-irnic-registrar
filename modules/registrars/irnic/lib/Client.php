@@ -1,13 +1,10 @@
 <?php
 
 /*
- * IRNIC API client used by the WHMCS registrar module.
+ * IRNIC HTTP/EPP Client
  *
- * Authentication:
- *   HTTP: Authorization: Bearer <API_TOKEN>
- *   EPP : <domain:authInfo><domain:pw>DEPOSIT_CODE</domain:pw></domain:authInfo>
- *
- * No credential is hard-coded in this file.
+ * Developed by: Kowsar Niyazi
+ * Company: NovinHost
  *
  * License: GPL-3.0-or-later
  */
