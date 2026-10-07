@@ -105,7 +105,12 @@ Recommended release state until all chargeable flows are verified against a fund
 ```text
 v1.0.0-rc1
 ```
+## Author
 
+Developed by **Kowsar Niyazi**  
+Company: **NovinHost**
+
+GitHub: `kowsarniyazi`
 After successful production tests for registration, renewal, nameserver update, transfer and transfer-PIN request, tag a stable `v1.0.0`.
 
 ## License
